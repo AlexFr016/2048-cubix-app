@@ -11,5 +11,13 @@
 		"ecosystem:cordova"
 	],
 	"author": "Aleksandr Frolov",
-	"license": "MIT"
+	"license": "MIT",
+	"cordova": {
+		"platforms": [
+			"android"
+		]
+	},
+	"devDependencies": {
+		"cordova-android": "^8.0.0"
+	}
 }
